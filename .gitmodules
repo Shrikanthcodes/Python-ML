@@ -7,3 +7,6 @@
 [submodule "CIFAR-10-Analysis"]
 	path = CIFAR-10-Analysis
 	url = https://github.com/Shrikanthcodes/CIFAR-10-Analysis.git
+[submodule "baseball-analysis"]
+	path = baseball-analysis
+	url = https://github.com/Shrikanthcodes/baseball-analysis.git
