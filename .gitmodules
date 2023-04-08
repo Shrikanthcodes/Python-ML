@@ -10,3 +10,6 @@
 [submodule "baseball-analysis"]
 	path = baseball-analysis
 	url = https://github.com/Shrikanthcodes/baseball-analysis.git
+[submodule "Flickr8k"]
+	path = Flickr8k
+	url = https://github.com/Shrikanthcodes/Flickr8k.git
