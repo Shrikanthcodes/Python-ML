@@ -4,3 +4,6 @@
 [submodule "Victimzation-Disparities"]
 	path = Victimzation-Disparities
 	url = https://github.com/Shrikanthcodes/Victimzation-Disparities.git
+[submodule "CIFAR-10-Analysis"]
+	path = CIFAR-10-Analysis
+	url = https://github.com/Shrikanthcodes/CIFAR-10-Analysis.git
